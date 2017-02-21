@@ -460,7 +460,8 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   cloudProjectId: 5c2c7f12-312f-4bd0-b440-a41469b58367
   projectName: Bacterocide (1)
   organizationId: furvent
